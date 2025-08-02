@@ -30,7 +30,7 @@ You can view the project layout through [FROM THIS LINK](https://www.figma.com/d
 ## 🌍 Deployment
 
 You can access the project directly through GitHub Pages:  
-👉 [Refund on GitHub Pages](https://augusto-valerio.github.io/Refund/)
+👉 [Product Card on GitHub Pages](https://augusto-valerio.github.io/product-card/)
 
 ---
 
