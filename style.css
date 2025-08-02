@@ -1,0 +1,18 @@
+:root {
+  --bg-color: #d9cdf7;
+  --text-color: #271a45;
+}
+
+body {
+  background-color: var(--bg-color);
+}
+
+body * {
+  color: var(--text-color);
+  font-family: "Lato", sans-serif;
+}
+
+
+h1 {
+  font-family: "Crimson Pro", sans-serif;
+}
