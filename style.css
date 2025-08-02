@@ -37,13 +37,17 @@ body * {
 }
 
 #product-image {
-  border: 1px solid red;
   position: relative;
 }
 
 #product-image button {
   position: absolute;
   right: 0;
+
+  background-color: transparent;
+  border: 0;
+
+  cursor: pointer;
 }
 
 #product-image > img {
@@ -79,6 +83,8 @@ p {
   border-radius: 999px;
 
   background-color: transparent;
-  
+
   margin-top: 20px;
+
+  cursor: pointer;
 }
